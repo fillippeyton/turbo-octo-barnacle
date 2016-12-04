@@ -7,6 +7,7 @@ http://aws-website-ipi-react-35f30.s3-website-us-east-1.amazonaws.com/
 
 To Do:
 * Build/Deployment to S3
+* Dev/QA/Prod environments for static files
 * Cache busting for S3 css/js files
 * CORS for S3 static files
 ** http://stackoverflow.com/questions/17570100/s3-not-returning-access-control-allow-origin-headers
